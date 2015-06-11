@@ -1,0 +1,16 @@
+{
+    "name": "diego/slim-skeleton",
+    "description": "A small Slime Framework skeleton package.",
+    "require": {
+        "slim/slim": "~2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "diego",
+            "email": "diego@sirdiego.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
