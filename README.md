@@ -5,7 +5,9 @@ This is my little slim skeleton to make it easier to start a new slim applicatio
 ## Installation
 
 1. Start the new application
+
     composer.phar create-project diego/slim-skeleton Application
+
 2. Now copy `config/config.example.php` to `config/config.php` and change it to your needs
 3. Point your document root to the `web/` directory
 
