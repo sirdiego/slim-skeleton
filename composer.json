@@ -2,7 +2,9 @@
     "name": "diego/slim-skeleton",
     "description": "A small Slime Framework skeleton package.",
     "require": {
-        "slim/slim": "~2.6"
+        "slim/slim": "~2.6",
+        "slim/views": "dev-master",
+        "twig/twig": "~1.18"
     },
     "license": "MIT",
     "authors": [
